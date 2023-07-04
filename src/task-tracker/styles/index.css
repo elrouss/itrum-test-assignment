@@ -1,0 +1,18 @@
+.task {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.delete {
+  margin-left: 10px;
+  display: none;
+}
+
+#trashContainer {
+  display: none;
+}
